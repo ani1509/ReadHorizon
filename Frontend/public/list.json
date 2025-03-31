@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "The Lion King",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kids Book",
+    "title": "The Jungle Book",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cartoon Book",
+    "title": "The Cartoon Adventures",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Adventure Book",
+    "title": "The Great Escape",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fantasy Book",
+    "title": "The Magic Realm",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mystery Book",
+    "title": "The Hidden Truth",
+    "price": 350,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sci-Fi Book",
+    "title": "The Galactic Voyage",
+    "price": 400,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Historical Book",
+    "title": "The Ancient Chronicles",
+    "price": 300,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Biography Book",
+    "title": "The Life of Legends",
+    "price": 280,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Self-Help Book",
+    "title": "The Path to Success",
+    "price": 320,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cooking Book",
+    "title": "The Culinary Delights",
+    "price": 250,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Travel Book",
+    "title": "The World Tour",
+    "price": 270,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Science Book",
+    "title": "The Scientific Wonders",
+    "price": 290,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Art Book",
+    "title": "The Artistic Creations",
+    "price": 310,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Music Book",
+    "title": "The Musical Symphony",
+    "price": 260,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Horror Book",
+    "title": "The Haunted Mansion",
+    "price": 300,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Romance Book",
+    "title": "The Love Story",
+    "price": 200,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Thriller Book",
+    "title": "The Final Chase",
+    "price": 250,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/group-books-pennant_25030-38688.jpg"
+  }
+]
